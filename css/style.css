@@ -1,0 +1,125 @@
+.foto{
+   width: 100%;
+    float: left;
+background-image: url(../img/247526767_382847.jpg);
+    background-size: cover;
+}
+p{
+text-align: center;
+    font-size: 45px;
+}
+.p1{
+  
+font-size: 20px;
+}
+.p2{
+
+    font-size: 20px;
+}
+.p3{
+
+    font-size: 20px;
+}
+.text{
+    text-align: center;
+    
+}
+
+
+.partners_restaurant{
+display: flex;
+justify-content: space-around;
+    flex-direction: row;
+}
+
+.partners1{
+/*border: 2px solid red;*/
+}
+
+.partners2{
+/*  border: 2px solid red;*/
+}
+.partners_techika{
+display: flex;
+justify-content: space-around;
+    flex-direction: row;
+}
+.partners_samsung{
+/*  border: 2px solid red;*/
+}
+.partners_epicentr{
+/*border: 2px solid red;*/
+}
+.wrapper{
+font-family: 'Pacifico', cursive;
+color:white;
+}
+
+
+@media (min-width: 0px) and (max-width: 768px){
+    p{
+text-align: center;
+    font-size: 35px;
+}
+.p1, .p2, .p3{
+font-size: 15px;
+}
+.text{
+    text-align: center;
+}
+  .partners_restaurant{
+display: flex;
+    flex-direction: column;
+      text-align: center;
+}  
+ .partners_techika{
+display: flex;
+    flex-direction: column;
+     text-align: center;
+}   
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
